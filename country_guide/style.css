@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(41, 138, 212);
+    font-family:"poppins",sans-serif;
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    width:300px;
+    height:400px;
+    padding: 40px 20px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction:column; 
+    align-items: center;
+    position: absolute;
+}
+
+.wrapper{
+    display:flex;
+    gap:1em;
+    align-items: center;
+}
+
+.wrapper button{
+    font-size:10px;
+    background-color: rgb(93, 93, 206);
+    color:white;
+    border-radius:10px;;
+      border:none;
+      padding:8px;
+      width:100px;
+      cursor:pointer;
+}
+.wrapper button:hover{
+    background-color:rgb(93, 123, 204);
+}
+
+.wrapper input{
+    font-size:12px;
+    border:none;
+    border-bottom:2px solid  rgb(124, 124, 195);
+    color:rgb(144, 90, 198);
+
+}
+
+.flag-img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+  }
+
+  .container h2{
+    font-weight:600;
+    color:black;
+    text-align:center;
+   
+font-size:18px;
+  }
+
+  .data-wrapper{
+    margin-bottom:1em;
+    letter-spacing:0.3px;
+
+  }
+
+
+  .container h4{
+    display: inline;
+    font-weight:600;
+    color:black;
+
+  }
+  .container span{
+    color:rgb(102, 97, 97);
+  }
+
+  .result h2{
+    text-align:center;
+    color:red;
+   font-size:15px;
+  }
+  
+
+
+
+  
+
+

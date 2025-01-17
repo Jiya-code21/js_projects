@@ -1,0 +1,25 @@
+.container{
+    width:500px;
+    text-align:center;
+   
+}
+
+#counter{
+    font-size:24px;
+}
+
+button{
+    font-size:18px;
+    padding:10px 20px;
+    margin:10px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height */
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e2f746; /* Background color for better look */
+}

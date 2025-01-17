@@ -1,4 +1,4 @@
-Deploymrnt link-->https://charming-snickerdoodle-4b033d.netlify.app/
+Deployment link-->https://charming-snickerdoodle-4b033d.netlify.app/
 
 
 Visual Representation
